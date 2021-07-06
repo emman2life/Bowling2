@@ -1,0 +1,44 @@
+.frame-container{
+display: flex;
+
+    border: 1px solid black;
+    width: 80rem;
+    margin: auto;
+}
+.frame-number{
+    border-bottom: 1px solid black;
+    max-height: 1rem;
+    position: relative;
+    width: 6rem;
+}
+.pinScores{
+    display: block;
+}
+.pin-scores{
+    display: flex;
+    height: 3rem;
+}
+.bowl2{
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+
+}
+.bowl{
+   
+    height: 100%;
+    width: 3rem;
+}
+.frame{
+width: 6rem;
+border-right: 1px solid black;
+}
+.pin{
+    display: inline-block;
+    margin: 1rem;
+}
+.pin-scores{
+    height: 1.7rem;
+}
+.frame-score{
+    height: 1.7rem;
+}

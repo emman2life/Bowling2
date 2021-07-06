@@ -1,0 +1,31 @@
+<h1>Bowling Scores</h1>
+<ng-container *ngIf="(bowlingScores !== undefined)">
+    <div class="pin" *ngFor="let item of getPinsLeft(bowlingScores.pinsLeft);">
+        <app-pin [pin]='item' (scores)="bowl($event)"></app-pin>
+    </div>
+    <div class="frame-container">
+
+   
+    <div class="frame" *ngFor="let frame of bowlingScores.frames; let i = index">
+       
+            <div class="frame-number">
+                {{i+1}}
+            </div>
+            <div class="pin-scores">
+               
+                    <div class="bowl bowl1">
+                        <span *ngIf="frame!= null">{{frame.firstShotScore!}}</span> 
+                    </div>
+                    
+                    <div class="bowl bowl2">
+                        <span *ngIf="frame!= null">{{frame.secondShotScore}}</span> 
+                    </div>
+                    
+            </div>
+           <div class="frame-score">{{bowlingScores.frameScores[i]}}</div> 
+
+       
+
+    </div>
+  </div>
+    </ng-container>

@@ -1,0 +1,85 @@
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/appsettings.json
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/BowlingAPI.exe
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/BowlingAPI.deps.json
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/BowlingAPI.runtimeconfig.json
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/BowlingAPI.runtimeconfig.dev.json
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/BowlingAPI.dll
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/ref/BowlingAPI.dll
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/BowlingAPI.pdb
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.csprojAssemblyReference.cache
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.AssemblyInfoInputs.cache
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.AssemblyInfo.cs
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.csproj.CoreCompileInputs.cache
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/staticwebassets/BowlingAPI.StaticWebAssets.Manifest.cache
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/staticwebassets/BowlingAPI.StaticWebAssets.xml
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/scopedcss/bundle/BowlingAPI.styles.css
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.RazorTargetAssemblyInfo.cache
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.csproj.CopyComplete
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.dll
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/ref/BowlingAPI.dll
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.pdb
+C:/Users/emman/OneDrive/Dokument/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.genruntimeconfig.cache
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/bin/Debug/net5.0/appsettings.Development.json
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/bin/Debug/net5.0/appsettings.json
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/bin/Debug/net5.0/BowlingAPI.deps.json
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/bin/Debug/net5.0/BowlingAPI.runtimeconfig.json
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/bin/Debug/net5.0/BowlingAPI.runtimeconfig.dev.json
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/bin/Debug/net5.0/BowlingAPI.dll
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/bin/Debug/net5.0/ref/BowlingAPI.dll
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/bin/Debug/net5.0/BowlingAPI.pdb
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.csproj.AssemblyReference.cache
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.AssemblyInfoInputs.cache
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.AssemblyInfo.cs
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.csproj.CoreCompileInputs.cache
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/obj/Debug/net5.0/staticwebassets/BowlingAPI.StaticWebAssets.Manifest.cache
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/obj/Debug/net5.0/staticwebassets/BowlingAPI.StaticWebAssets.xml
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/obj/Debug/net5.0/scopedcss/bundle/BowlingAPI.styles.css
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.RazorTargetAssemblyInfo.cache
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.csproj.CopyComplete
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.dll
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/obj/Debug/net5.0/ref/BowlingAPI.dll
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.pdb
+/Users/emmanuelimhontu/Documents/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.genruntimeconfig.cache
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/appsettings.Development.json
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/appsettings.json
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/BowlingAPI.deps.json
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/BowlingAPI.runtimeconfig.json
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/BowlingAPI.runtimeconfig.dev.json
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/BowlingAPI.dll
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/ref/BowlingAPI.dll
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/BowlingAPI.pdb
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.csproj.AssemblyReference.cache
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.AssemblyInfoInputs.cache
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.AssemblyInfo.cs
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.csproj.CoreCompileInputs.cache
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/staticwebassets/BowlingAPI.StaticWebAssets.Manifest.cache
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/staticwebassets/BowlingAPI.StaticWebAssets.xml
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/scopedcss/bundle/BowlingAPI.styles.css
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.RazorTargetAssemblyInfo.cache
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.csproj.CopyComplete
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.dll
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/ref/BowlingAPI.dll
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.pdb
+/Users/emmanuelimhontu/Documents/Programming pratice/Bowling2/BowlingAPI/obj/Debug/net5.0/BowlingAPI.genruntimeconfig.cache
